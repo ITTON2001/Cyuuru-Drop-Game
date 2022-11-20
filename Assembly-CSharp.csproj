@@ -37,6 +37,11 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\Script\Shooter.cs" />
+     <Compile Include="Assets\Script\Cyuuru.cs" />
+     <Compile Include="Assets\Script\Box.cs" />
+     <Compile Include="Assets\Script\Manager.cs" />
+     <Compile Include="Assets\Script\wall.cs" />
+     <Compile Include="Assets\Script\Bottom.cs" />
     <Reference Include="UnityEngine">
         <HintPath>C:/Users/owner/Documents/2020.3.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
